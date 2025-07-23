@@ -1,0 +1,16 @@
+name: Pheazy-MD 
+services:
+  - name: Pheazy-MD-service
+    type: web
+    ports:
+      - 5000
+    routes:
+      - path: "/"
+    build:
+      type: docker
+      dockerfile: ./Dockerfile
+    regions:
+      - fra
+      - sin
+
+      
