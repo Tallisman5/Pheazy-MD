@@ -61,7 +61,7 @@ module.exports = {
 
 *© Pheazy-MD - ᴍᴅ*
 
-> ɢɪᴛʜᴜʙ : github.com/Talisman5/Pheazy-MD`,
+> ɢɪᴛʜᴜʙ : github.com/Tallisman5/Pheazy-MD`,
     // add alive msg here 
 
     STICKER_NAME: process.env.STICKER_NAME || "Pheazy-MD",
@@ -141,7 +141,7 @@ https://youtube.com/@malvintech2
 > - ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴜʀ ᴘʀᴇғɪx ᴜsɪɴɢ ᴛʜᴇ .ᴘʀᴇғɪx ᴄᴏᴍᴍᴀɴᴅ
 
 > ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sʜᴀʀᴇ, sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ⬇️ 
-https://github.com/Talisman5/Pheazy-MD
+https://github.com/Tallisman5/Pheazy-MD
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♀️ Lord-Pheazy`
 };
